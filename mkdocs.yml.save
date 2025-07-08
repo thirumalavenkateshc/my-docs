@@ -1,0 +1,7 @@
+site_name: My API Docs
+nav:
+  - Home: index.md
+  - API: api.md
+theme:
+  name: material
+

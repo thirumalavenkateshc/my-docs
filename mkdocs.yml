@@ -1,0 +1,8 @@
+site_name: My API Docs
+nav:
+  - Home: index.md
+  - getting Started: getting-started.md
+  - API: api.md
+
+theme:
+  name: material
